@@ -18,7 +18,7 @@ A cybersecurity project for ICS344 focused on vulnerable service exploitation, S
 
 ### Phase 1: Setup and Exploitation
 - Target VM: Metasploitable3  
-- Service Attacked: [SMB]  
+- Service Attacked: ProFTPD 
 - Tools Used: Kali Linux, Metasploit, Custom script
 
 ### Phase 2: SIEM Dashboard
