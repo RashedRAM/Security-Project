@@ -1,5 +1,5 @@
 # Phase 3: Defensive Strategy Proposal
-In this Phase we are going to protect the Victim Machine using a defensive strategy and our goal is to prevent the exploit attack that we performed in the Phase 1.
+In this Phase we are going to protect the Victim Machine using a defensive strategy and our goal is to prevent the exploit attack that we performed in the Phase 1.<br><br>
 **Process**: As we know the vulnerability that we exploit is through FTP ( ProFTPD 1.3.5 ) so we will try to build a FireWall to prevent accessing through FTP.
 ## Step 1: Building the Firewall (UFW) in the Victim Machine
 To accomplish this tips some commands should be written in the victim machine. <br>
