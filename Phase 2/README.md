@@ -32,7 +32,7 @@ To detect potential malicious behavior, we ran pattern analysis on the access_co
 
 ### 7.2 Most Accessed IPs
 We want to see the most IPs that accessed the Victim Machine. <br><br>
-<img src="./Screenshots/Top%20Ip%20accessers%20for%20to%20the%20system.png" alt="Top Ip accessors to the system" width="700" height="400"><img/>
+<img src="./Screenshots/Top%20Ip%20accessers%20to%20the%20system.png" alt="Top Ip accessors to the system" width="700" height="400"><img/>
 
 ### Findings:
 * The IP **192.168.100.5** (our known attacker machine) had an extremely high volume of requests. This clearly links the attacker to the reverse shell activity and payload delivery.
