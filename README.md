@@ -26,7 +26,7 @@ A cybersecurity project for ICS344 focused on vulnerable service exploitation, S
 - Visualizations: Attack timeline, IP traffic, service logs
 
 ### Phase 3: Defense and Testing
-- Defense: [Firewall]  
+- Defense: Firewall  
 - Result: Attack successfully blocked after mitigation
 
 ---
