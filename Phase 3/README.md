@@ -11,9 +11,11 @@ To accomplish this tips some commands should be written in the victim machine. <
 **Results**: From the Firewall table you can see that the firewall is active any packets will be denied if it's from FTP protocol since it has less security and mostly vulnerable.
 
 ## Step 2: Testing the Defense Strategy
-<img src="./Screenshots/Fail%20to%20exploit%20after%20firewall%20activates.jpg" alt="Firewall Sucess"><img/> <br> <br>
+<img src="./Screenshots/Exploitation%20After%20Firewall.jpg" alt="Firewall Sucess"><img/> <br> <br>
 
 **Results**: You can see that the exploitation has been denied and the victim machine cannot be reached through this past vulnerable.
 
 ## Comparisons Purposes
-<img src="./Screenshots/Exploiting%20before%20applying%20the%20firewall" alt="Without Firewall"><img/> <br> <br>
+<img src="./Screenshots/Exploitation%20Before%20Firewall.png" alt="Without Firewall"><img/> <br> <br>
+
+**Usage**: This snapshot just to see how we were able to exploit using the same vulnerability before the firewall.
